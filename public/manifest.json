@@ -1,0 +1,9 @@
+{
+    "name":"Townhouse",
+    "short_name":"Townhouse",
+    "description":"A social engagement platform",
+    "display":"fullscreen",
+    "orientation":"portrait",
+    "start_url":"/",
+    "icons":[]
+} 
