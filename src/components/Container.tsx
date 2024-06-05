@@ -7,7 +7,7 @@ interface ContainerProp {
 }
 
 function Container({ children, className }: ContainerProp) {
-  const classes = twMerge("max-w-screen-2xl mx-auto", className);
+  const classes = twMerge("max-w-screen-2xl mx-auto px-3", className);
 
   return <div className={classes}>{children}</div>;
 }
